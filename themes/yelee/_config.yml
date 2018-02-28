@@ -8,7 +8,7 @@ Yelee: "3.5"
 ## Tags Cloud Page: `hexo new page tags`
 menu:
   主页: /
-  所有文章: /archives/
+  #所有文章: /archives/
   #随笔: /tags/随笔
   标签云: /tags/
   关于我: /about/
@@ -246,7 +246,7 @@ mathjax: false
 # Socail Share | 是否开启分享
 share:
   on: true
-  baidu: true
+  baidu: false
   addthis: false
   addthis_pubid: "ra-56ff76c972fc0cf9"
   ## Go to www.addthis.com/dashboard to get your pubid (in src of Code)
